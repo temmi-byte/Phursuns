@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 /* --- 1. Variables & Reset --- */
 :root {
     /* "Classic Noir" Palette */
